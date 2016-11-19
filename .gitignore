@@ -1,0 +1,12 @@
+#tex auxiliary files files
+/*.aux
+/*.bbl
+/*.lof
+/*.log
+/*.lot
+/*.out
+/*.gz
+/*.goc
+
+#excel files (keep all as .csv)
+/*.xlsx

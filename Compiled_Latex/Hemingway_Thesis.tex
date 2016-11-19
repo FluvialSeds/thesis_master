@@ -1,0 +1,82 @@
+%% The documentclass options along with the pagestyle can be used to generate
+%% a technical report, a draft copy, or a regular thesis.  You may need to
+%% re-specify the pagestyle after you \include  cover.tex.  For more
+%% information, see the first few lines of mitthesis.cls. 
+
+\documentclass[11pt,twoside]{mitthesis}
+\usepackage{lgrind}
+%% These have been added at the request of the MIT Libraries, because
+%% some PDF conversions mess up the ligatures.  -LB, 1/22/2014
+
+%\usepackage{cmap}
+%\usepackage[T1]{fontenc}
+\pagestyle{plain}
+
+\usepackage{titlesec}
+\usepackage{lipsum}
+\titleformat{\chapter}[display]
+  {\normalfont\Large\bfseries\scshape\filcenter}{\chaptertitlename\ \thechapter}{20pt}{\LARGE}
+\titlespacing*{\chapter}
+  {0pt}{30pt}{20pt}
+
+\titleformat*{\section}{\Large\bfseries}
+\titleformat*{\subsection}{\large\bfseries}
+\titleformat*{\subsubsection}{\bfseries}
+
+%\usepackage{textgreek}
+%\usepackage{array}
+%\usepackage{graphicx}
+%\usepackage{caption}
+%\usepackage{subcaption}
+%\usepackage{bm}% Bold Math package
+%\usepackage[caption=false,font=footnotesize]{subfig}
+%\usepackage[cmex10]{amsmath}
+%\usepackage[]{algorithmic}
+%\usepackage[]{algorithm}
+%\usepackage{amsfonts}
+
+\usepackage{amsmath}
+\usepackage{bm}
+\usepackage{caption}
+\usepackage{enumitem}
+\usepackage{mathtools}
+\usepackage[version=4]{mhchem}
+\usepackage{newtxtext}
+\usepackage[round,authoryear]{natbib}
+\usepackage[figuresright]{rotating}
+\usepackage{textcomp}
+
+% Import hyperlinking package
+\usepackage{hyperref}
+\hypersetup{colorlinks=false}
+
+% Define mean command for overbar
+\newcommand*\mean[1]{\overline{#1}}
+
+% Redefine figure numbering to be Ch.Fig
+\renewcommand{\thefigure}{\thechapter.\arabic{figure}}
+
+\begin{document}
+
+\include{Thesis_Chapters/cover}
+
+\pagestyle{plain}
+
+\include{Thesis_Chapters/contents}
+
+%Part 1: Analytical and theoretical development
+\include{Thesis_Chapters/Chapter_1}
+\include{Thesis_Chapters/Chapter_2}
+
+%Part 2: Geochemical application
+\include{Thesis_Chapters/Chapter_3}
+\include{Thesis_Chapters/Chapter_4}
+\include{Thesis_Chapters/Chapter_5}
+\include{Thesis_Chapters/Chapter_6}
+\include{Thesis_Chapters/Chapter_7}
+
+%\appendix
+\include{Thesis_Chapters/biblio}
+
+\end{document}
+

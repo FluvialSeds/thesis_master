@@ -1,0 +1,96 @@
+% Joint Program version of MIT Thesis template
+% For questions, comments, concerns or complaints:
+% thesis@mit.edu
+
+% NOTE:
+% These templates make an effort to conform to the MIT Thesis specifications,
+% however the specifications can change.  We recommend that you verify the
+% layout of your title page with your thesis advisor and/or the MIT 
+% Libraries before printing your final copy.
+
+\title{Understanding terrestrial organic carbon export: A time-series approach}
+
+\author{Jordon Dennis Hemingway}
+
+\prevdegrees{B.S., University of California at Berkeley (2011)}
+
+\department{Joint Program in Chemical Oceanography \\Massachusetts Institute of Technology\\ \& Woods Hole Oceanographic Institution}
+
+ \degree{Doctor of Philosophy}
+
+\degreemonth{February}
+\degreeyear{2017}
+\thesisdate{January 13, 2017}
+
+% Specify copyright notice text
+\copyrightnoticetext{\copyright 2017 Jordon D. Hemingway
+\\All rights reserved. 
+\\The author hereby grants to MIT and WHOI permission to reproduce and 
+to distribute publicly paper and electronic copies of this thesis document 
+in whole or in part in any medium now known or hereafter created.}
+
+% Specify supervisor
+\supervisor{Valier V. Galy}{Associate Scientist, Marine Chemistry \& Geochemistry\\Woods Hole Oceanographic Institution}
+
+% JCCO chairman
+\chairman{Shuhei Ono}{Chair, Joint Committee for Chemical Oceanography \linebreak Massachusetts Institute of Technology\linebreak Woods Hole Oceanographic Institution}
+
+%\chairwhoi{}{}
+
+% Make the titlepage based on the above information.  If you need
+% something special and can't use the standard form, you can specify
+% the exact text of the titlepage yourself.  Put it in a titlepage
+% environment and leave blank lines where you want vertical space.
+% The spaces will be adjusted to fill the entire page.  The dotted
+% lines for the signatures are made with the \signature command.
+\maketitle
+
+% The abstractpage environment sets up everything on the page except
+% the text itself.  The title and other header material are put at the
+% top of the page, and the supervisors are listed at the bottom.  A
+% new page is begun both before and after.  Of course, an abstract may
+% be more than one page itself.  If you need more control over the
+% format of the page, you can use the abstract environment, which puts
+% the word "Abstract" at the beginning and single spaces its text.
+
+%% You can either \input (*not* \include) your abstract file, or you can put
+%% the text of the abstract directly between the \begin{abstractpage} and
+%% \end{abstractpage} commands.
+
+% First copy: start a new page, and save the page number.
+\cleardoublepage
+
+% Uncomment the next line if you do NOT want a page number on your
+% abstract and acknowledgments pages.
+% \pagestyle{empty}
+\setcounter{savepage}{\thepage}
+\begin{abstractpage}
+
+% Abstract text
+Terrestrial organic carbon (OC) erosion, remineralization, transport through river networks, and burial in marine sediments is a major pathway of the global carbon cycle. However, our ability to constrain these processes and fluxes is largely limited by \textit{(i)} analytical capability and \textit{(ii)} temporal sampling resolution. 
+
+To address issue \textit{(i)}, here I discuss methodological advancements and data analysis techniques for the Ramped PyrOx serial oxidation isotope method developed at WHOI. Ramped-temperature pyrolysis/oxidation coupled with evolved-gas isotope analysis is a promising tool for understanding and separating complex OC mixtures. To quantitatively investigate distributions of OC source, reservoir age, and chemical structure contained within a single sample, I developed a kinetic model linking RPO-derived activation energy, \ce{^{13}C} composition, and \ce{^{14}C} content. This tool provides a novel method to fundamentally address the unknown relationship between OC remineralization rates and chemical lability in various environmental settings.
+
+To address issue \textit{(ii)}, I additionally present results from time-series sample sets collected on two end-member systems: the Congo River (Central Africa) and the LiWu River (Taiwan). For the Congo River, bulk and plant-wax lipid stable carbon isotope (\ce{^{12}C}, \ce{^{13}C}) compositions indicate that a majority of particulate OC is consistently derived from downstream, C\textsubscript{3}-dominated rainforest ecosystems.  Furthermore, bulk radiocarbon (\ce{^{14}C}) content and microbial lipid molecular distributions are strongly correlated with discharge, suggesting that pre-aged, swamp-forest-derived soils are preferentially exported when northern hemisphere discharge is highest. Combined, these results provide insight into the relationship between hydrological processes and fluvial carbon export.
+
+Lastly, I examined the processes controlling carbon source and flux in a set of soils and time-series fluvial sediments from the LiWu River catchment located in Taiwan. A comparison between bedrock and soil OC content reveals that soils can contain significantly less carbon than the underlying bedrock, suggesting that this material is remineralized prior to soil formation. Both the presence of bacterial lipids and a shift toward lower activation energy of \ce{^{14}C}-free OC contained in soil saprolite layers indicate that this process is microbially mediated and that microbial respiration of rock-derived OC likely represents a larger geochemical flux than previously thought.
+
+The results presented in this thesis therefore provide novel insight into the role of rivers in the global carbon cycle as well as their response to environmental perturbations.
+
+\end{abstractpage}
+
+\cleardoublepage
+
+\section*{Acknowledegments}
+
+% Acknowledgements text
+I am grateful for the support that I have received from many friends, colleagues, and mentors throughout my time in the Joint Program. First and foremost, I would like to thank Valier for being a wonderful advisor and mentor over the past years. I have benefited greatly from our many spontaneous and thought-provoking conversations, and I hesitate to contemplate how much caffeine we've consumed along the way. Valier has always been supportive of the research decisions that I chose and, in the end, I think we have stumbled upon some important results that would not have been possible with a more rigid approach. I will forever be thankful for that.
+
+Equally important is the support that I have received from all members of the Galy lab as well as my adopted home at NOSAMS. None of these measurements would have been possible without Xavier Phillipon and Carl Johnson holding my hand, especially in the beginning. Chris Hein, Guillaume Soulet, Sarah Rosengard, Kristina Brown, Kate French, and Laurel Childress have been wonderful to talk with and share ideas with, scientifically or otherwise. Most of the wet chemistry for my Congo chapters was the work of our summer student, Helena Pryer. The Ramped PyrOx instrument development is largely thanks to Ann McNichol, Al Gagnon, and Mary Lardie-Gaylord, Steven Beaupré, and Prosper Zigah. Ann has been incredibly gracious with her time at NOSAMS, and probably let me run a few too many free samples for my own good. I'd like to thank the entire Fye and McLean buildings for being generally amazing people.
+
+My committee members have been instrumental in guiding me along the way. Bernhard Peucker-Ehrenbrink is forever a calming presence and a great inspiration. I thank Dan Rothman for agreeing to advise me and steer me in the right drection, especially when developing the Ramped PyrOx inversion model. I'm additionally indebted to Rob Spencer for all the help he has given me, especially in terms of the Congo fieldwork. I'd also like to thank Phil Gschwend, who advised me during my first year in the program and helped me transition into Valier's lab. Of course, none of this would have been possible without the continued support of the entire Joint Program APO staff, both at WHOI and MIT, as well as the financial support provided to me by the NSF Graduate Research Fellowship, the WHOI Ocean Ventures Fund, and the MIT-WHOI Academic Programs Office.
+
+I would like to thank all of my colleagues who have invited me to come work at various institutions, both in the U.S. and abroad. At ETH Zurich, I was helped immensely by Usman Mohammad, Cameron McIntyre, Negar Haghipour, and, especially, Tim Eglinton, who thought it worthwhile to keep inviting me back. Enno Schefu\ss\ and his entire group at Bremen were wonderful hosts and helped me generate all of my Congo biomarker isotope data. None of the Taiwan work would have been possible without Bob Hilton and his group in Durham, especially the resources provided to me by Mathieu Dellinger. Rob Spencer, Travis Drake, David Podgorski, et al. were a pleasure to work with at Florida State, despite the June Tallahassee heat. 
+
+Most importantly, I would not be here today without the love and support of my family -- thank you all!
+

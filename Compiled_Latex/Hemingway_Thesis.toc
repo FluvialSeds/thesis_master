@@ -7,11 +7,11 @@
 \contentsline {subsection}{\numberline {1.2.2}The need for time-series measurements}{20}{subsection.1.2.2}
 \contentsline {subsection}{\numberline {1.2.3}Current methodological limitations}{20}{subsection.1.2.3}
 \contentsline {subsection}{\numberline {1.2.4}Thesis outline}{21}{subsection.1.2.4}
-\contentsline {subsubsection}{Chapter 2}{22}{subsubsection*.7}
-\contentsline {subsubsection}{Chapter 3}{22}{subsubsection*.8}
-\contentsline {subsubsection}{Chapter 4}{22}{subsubsection*.9}
-\contentsline {subsubsection}{Chapter 5}{23}{subsubsection*.10}
-\contentsline {subsubsection}{Chapter 6}{23}{subsubsection*.11}
+\contentsline {subsubsection}{Chapter \ref {Ch2}}{22}{subsubsection*.7}
+\contentsline {subsubsection}{Chapter \ref {Ch3}}{22}{subsubsection*.8}
+\contentsline {subsubsection}{Chapter \ref {Ch4}}{22}{subsubsection*.9}
+\contentsline {subsubsection}{Chapter \ref {Ch5}}{23}{subsubsection*.10}
+\contentsline {subsubsection}{Chapter \ref {Ch6}}{23}{subsubsection*.11}
 \contentsline {chapter}{\numberline {2}Assessing the blank carbon contribution, isotope mass balance, and kinetic isotope fractionation of the ramped pyrolysis/oxidation instrument at NOSAMS}{25}{chapter.2}
 \contentsline {section}{\numberline {2.1}Abstract}{26}{section.2.1}
 \contentsline {section}{\numberline {2.2}Introduction}{26}{section.2.2}

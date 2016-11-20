@@ -35,7 +35,7 @@
 \contentsline {subsection}{\numberline {3.5.1}Mathematical derivation}{55}{subsection.3.5.1}
 \contentsline {subsubsection}{Discrete DAEM}{55}{subsubsection*.29}
 \contentsline {subsubsection}{Continuous DAEM}{58}{subsubsection*.30}
-\contentsline {subsection}{\numberline {3.5.2}Parallel first-order verification}{59}{subsection.3.5.2}
+\contentsline {subsection}{\numberline {3.5.2}Verification of parallel first-order kinetics}{59}{subsection.3.5.2}
 \contentsline {subsubsection}{A note of caution for carbonates}{60}{subsubsection*.32}
 \contentsline {subsection}{\numberline {3.5.3}Solving for $p_{0}(E)$ using an inverse method}{62}{subsection.3.5.3}
 \contentsline {subsubsection}{Choice of frequency factor}{63}{subsubsection*.33}

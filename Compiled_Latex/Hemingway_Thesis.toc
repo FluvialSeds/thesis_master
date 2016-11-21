@@ -72,7 +72,7 @@
 \contentsline {section}{\numberline {4.7}Conclusion}{106}{section.4.7}
 \contentsline {section}{\numberline {4.8}Supplementary Material}{107}{section.4.8}
 \contentsline {subsection}{\numberline {4.8.1}Supplementary Tables}{107}{subsection.4.8.1}
-\contentsline {chapter}{\numberline {5}Hydrologic controls on the seasonal and inter-annual variability in Congo River particulate organic carbon sources and reservoir age}{109}{chapter.5}
+\contentsline {chapter}{\numberline {5}Hydrologic controls on the seasonal and inter-annual variability of Congo River particulate organic carbon sources and reservoir age}{109}{chapter.5}
 \contentsline {section}{\numberline {5.1}Abstract}{110}{section.5.1}
 \contentsline {section}{\numberline {5.2}Introduction}{110}{section.5.2}
 \contentsline {section}{\numberline {5.3}Study Site}{114}{section.5.3}

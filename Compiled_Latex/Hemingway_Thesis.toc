@@ -122,5 +122,5 @@
 \contentsline {subsection}{\numberline {6.3.3}Supplementary Tables}{158}{subsection.6.3.3}
 \contentsline {subsection}{\numberline {6.3.4}Supplementary Figures}{159}{subsection.6.3.4}
 \contentsline {chapter}{\numberline {7}Conclusions and Future Research}{163}{chapter.7}
-\contentsline {section}{\numberline {7.1}The global carbon cycle}{164}{section.7.1}
+\contentsline {section}{\numberline {7.1}Rivers in the global carbon cycle}{164}{section.7.1}
 \contentsline {section}{\numberline {7.2}A final thought}{167}{section.7.2}

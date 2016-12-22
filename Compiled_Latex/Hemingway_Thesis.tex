@@ -44,6 +44,7 @@
 \usepackage{newtxtext}
 \usepackage[round,authoryear]{natbib}
 \usepackage[figuresright]{rotating}
+\usepackage[group-digits = true]{siunitx}
 \usepackage{textcomp}
 
 % Import hyperlinking package
@@ -51,7 +52,15 @@
 \hypersetup{colorlinks=false}
 
 % Define mean command for overbar
-\newcommand*\mean[1]{\overline{#1}}
+\newcommand{\mean}[1]{\overline{#1}} % mean
+\newcommand{\sub}[1]{\textsubscript{#1}} % subscript
+\newcommand{\super}[1]{\textsuperscript{#1}} % superscript
+
+% Define permil SI unit and uncertainty notation
+\sisetup{separate-uncertainty = true}
+\sisetup{allow-number-unit-breaks = true}
+\sisetup{bracket-numbers = false}
+\DeclareSIUnit\permil{\text{\textperthousand}}
 
 % Redefine figure numbering to be Ch.Fig
 \renewcommand{\thefigure}{\thechapter.\arabic{figure}}

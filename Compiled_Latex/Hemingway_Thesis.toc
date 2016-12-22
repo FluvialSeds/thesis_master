@@ -1,11 +1,11 @@
 \contentsline {chapter}{\numberline {1}Introduction}{15}{chapter.1}
 \contentsline {section}{\numberline {1.1}Rivers: The intersection of Earth's two carbon cycles}{16}{section.1.1}
-\contentsline {subsection}{\numberline {1.1.1}The biospheric carbon cycle}{17}{subsection.1.1.1}
-\contentsline {subsection}{\numberline {1.1.2}The geologic carbon cycle}{17}{subsection.1.1.2}
+\contentsline {subsection}{\numberline {1.1.1}The biospheric carbon cycle}{16}{subsection.1.1.1}
+\contentsline {subsection}{\numberline {1.1.2}The geologic carbon cycle}{18}{subsection.1.1.2}
 \contentsline {section}{\numberline {1.2}Motivation for this work}{19}{section.1.2}
 \contentsline {subsection}{\numberline {1.2.1}Constraining feedback mechanisms}{19}{subsection.1.2.1}
 \contentsline {subsection}{\numberline {1.2.2}The need for time-series measurements}{20}{subsection.1.2.2}
-\contentsline {subsection}{\numberline {1.2.3}Current methodological limitations}{20}{subsection.1.2.3}
+\contentsline {subsection}{\numberline {1.2.3}Current methodological limitations}{21}{subsection.1.2.3}
 \contentsline {subsection}{\numberline {1.2.4}Thesis outline}{21}{subsection.1.2.4}
 \contentsline {subsubsection}{Chapter \ref {Ch2}}{22}{subsubsection*.7}
 \contentsline {subsubsection}{Chapter \ref {Ch3}}{22}{subsubsection*.8}
@@ -18,11 +18,11 @@
 \contentsline {section}{\numberline {2.3}Analytical Setup}{27}{section.2.3}
 \contentsline {section}{\numberline {2.4}Results and Discussion}{28}{section.2.4}
 \contentsline {subsection}{\numberline {2.4.1}NOSAMS RPO blank correction}{28}{subsection.2.4.1}
-\contentsline {subsection}{\numberline {2.4.2}Isotope mass balance}{31}{subsection.2.4.2}
+\contentsline {subsection}{\numberline {2.4.2}Isotope mass balance}{32}{subsection.2.4.2}
 \contentsline {subsubsection}{Stable isotope mass balance}{33}{subsubsection*.16}
-\contentsline {subsubsection}{\ce {^{14}C} mass balance}{34}{subsubsection*.17}
-\contentsline {subsection}{\numberline {2.4.3}Kinetic fractionation}{35}{subsection.2.4.3}
-\contentsline {section}{\numberline {2.5}Conclusion}{40}{section.2.5}
+\contentsline {subsubsection}{\ce {^{14}C} mass balance}{35}{subsubsection*.17}
+\contentsline {subsection}{\numberline {2.4.3}Kinetic fractionation}{36}{subsection.2.4.3}
+\contentsline {section}{\numberline {2.5}Conclusion}{41}{section.2.5}
 \contentsline {chapter}{\numberline {3}An inverse model for relating organic carbon thermal reactivity and isotope composition using Ramped PyrOx}{43}{chapter.3}
 \contentsline {section}{\numberline {3.1}Abstract}{44}{section.3.1}
 \contentsline {section}{\numberline {3.2}Introduction}{44}{section.3.2}
@@ -43,24 +43,24 @@
 \contentsline {subsubsection}{Determining $\bm {p_{0}(E)}$ contained in each RPO fraction}{68}{subsubsection*.39}
 \contentsline {subsection}{\numberline {3.5.4}Relationships between isotopes and reaction energetics}{68}{subsection.3.5.4}
 \contentsline {subsubsection}{Kinetic isotope fractionation}{68}{subsubsection*.40}
-\contentsline {subsubsection}{Comparing $\bm {p_{0}(E)}$, \ce {^{13}C} content, and \ce {^{14}C} content}{71}{subsubsection*.41}
+\contentsline {subsubsection}{Comparing $\bm {p_{0}(E)}$, \ce {^{13}C} content, and \ce {^{14}C} content}{70}{subsubsection*.41}
 \contentsline {section}{\numberline {3.6}Conclusion}{74}{section.3.6}
 \contentsline {chapter}{\numberline {4}Multiple plant-wax compounds record differential sources and ecosystem structure in large river catchments}{75}{chapter.4}
 \contentsline {section}{\numberline {4.1}Abstract}{76}{section.4.1}
 \contentsline {section}{\numberline {4.2}Introduction}{76}{section.4.2}
 \contentsline {section}{\numberline {4.3}Background}{78}{section.4.3}
-\contentsline {section}{\numberline {4.4}Materials and Methods}{81}{section.4.4}
-\contentsline {subsection}{\numberline {4.4.1}Sample collection}{81}{subsection.4.4.1}
-\contentsline {subsection}{\numberline {4.4.2}Extraction, separation, and purification of \textit {n}-alkyl lipids}{81}{subsection.4.4.2}
+\contentsline {section}{\numberline {4.4}Materials and Methods}{80}{section.4.4}
+\contentsline {subsection}{\numberline {4.4.1}Sample collection}{80}{subsection.4.4.1}
+\contentsline {subsection}{\numberline {4.4.2}Extraction, separation, and purification of \textit {n}-alkyl lipids}{80}{subsection.4.4.2}
 \contentsline {subsection}{\numberline {4.4.3}Quantification and isotopic measurements}{82}{subsection.4.4.3}
 \contentsline {subsection}{\numberline {4.4.4}Data analysis}{83}{subsection.4.4.4}
 \contentsline {section}{\numberline {4.5}Results}{83}{section.4.5}
 \contentsline {subsection}{\numberline {4.5.1}Environmental parameters}{83}{subsection.4.5.1}
 \contentsline {subsection}{\numberline {4.5.2}Lipid abundance and distribution}{84}{subsection.4.5.2}
-\contentsline {subsubsection}{\textit {n}-Alkanes}{84}{subsubsection*.46}
+\contentsline {subsubsection}{\textit {n}-Alkanes}{85}{subsubsection*.46}
 \contentsline {subsubsection}{\textit {n}-Alcohols}{85}{subsubsection*.49}
 \contentsline {subsubsection}{\textit {n}-Alkanoic acids}{88}{subsubsection*.51}
-\contentsline {subsection}{\numberline {4.5.3}Compound-specific \ce {\delta ^{13}C}}{88}{subsection.4.5.3}
+\contentsline {subsection}{\numberline {4.5.3}Compound-specific \ce {\delta ^{13}C}}{91}{subsection.4.5.3}
 \contentsline {subsubsection}{\textit {n}-Alkanes}{91}{subsubsection*.53}
 \contentsline {subsubsection}{\textit {n}-Alcohols}{91}{subsubsection*.54}
 \contentsline {subsubsection}{\textit {n}-Alkanoic acids}{91}{subsubsection*.56}
@@ -89,19 +89,20 @@
 \contentsline {subsubsection}{Stable isotope (\ce {^{13}C}, \ce {^{15}N}) and N/C composition}{121}{subsubsection*.76}
 \contentsline {subsubsection}{\ce {^{14}C} composition}{121}{subsubsection*.78}
 \contentsline {subsection}{\numberline {5.5.3}GDGT distributions}{121}{subsection.5.5.3}
-\contentsline {section}{\numberline {5.6}Discussion}{122}{section.5.6}
-\contentsline {subsection}{\numberline {5.6.1}OC fluxes, yield, and the importance of the \textit {Cuvette Congolaise}}{122}{subsection.5.6.1}
+\contentsline {section}{\numberline {5.6}Discussion}{123}{section.5.6}
+\contentsline {subsection}{\numberline {5.6.1}OC fluxes, yield, and the importance of the \textit {Cuvette Congolaise}}{123}{subsection.5.6.1}
 \contentsline {subsection}{\numberline {5.6.2}Congo River POM sources: Insight from bulk measurements}{124}{subsection.5.6.2}
 \contentsline {subsubsection}{Seasonal source variability}{126}{subsubsection*.83}
 \contentsline {subsubsection}{Controls on soil \ce {\Delta ^{14}C}}{129}{subsubsection*.85}
 \contentsline {subsection}{\numberline {5.6.3}Congo River POM sources: Insight from GDGT metrics}{131}{subsection.5.6.3}
-\contentsline {section}{\numberline {5.7}Conclusion}{133}{section.5.7}
-\contentsline {section}{\numberline {5.8}Supplementary Material}{134}{section.5.8}
-\contentsline {subsection}{\numberline {5.8.1}Discussion}{134}{subsection.5.8.1}
-\contentsline {subsubsection}{Effect of 6-methyl brGDGTs}{134}{subsubsection*.87}
-\contentsline {subsubsection}{End-member compositions}{134}{subsubsection*.88}
-\contentsline {subsection}{\numberline {5.8.2}Supplementary Tables}{136}{subsection.5.8.2}
-\contentsline {subsection}{\numberline {5.8.3}Supplementary Figures}{137}{subsection.5.8.3}
+\contentsline {section}{\numberline {5.7}Global significance of fluvially exported tropical peatland OM}{133}{section.5.7}
+\contentsline {section}{\numberline {5.8}Conclusion}{134}{section.5.8}
+\contentsline {section}{\numberline {5.9}Supplementary Material}{135}{section.5.9}
+\contentsline {subsection}{\numberline {5.9.1}Discussion}{135}{subsection.5.9.1}
+\contentsline {subsubsection}{Effect of 6-methyl brGDGTs}{135}{subsubsection*.87}
+\contentsline {subsubsection}{End-member compositions}{135}{subsubsection*.88}
+\contentsline {subsection}{\numberline {5.9.2}Supplementary Tables}{137}{subsection.5.9.2}
+\contentsline {subsection}{\numberline {5.9.3}Supplementary Figures}{138}{subsection.5.9.3}
 \contentsline {chapter}{\numberline {6}Rapid microbial oxidation of rock-derived organic carbon in mountain soils}{139}{chapter.6}
 \contentsline {section}{\numberline {6.1}Abstract}{140}{section.6.1}
 \contentsline {section}{\numberline {6.2}Main text}{140}{section.6.2}

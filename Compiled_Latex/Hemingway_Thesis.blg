@@ -1,0 +1,61 @@
+This is BibTeX, Version 0.99d (TeX Live 2016)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: Hemingway_Thesis.aux
+A level-1 auxiliary file: Thesis_Chapters/cover.aux
+A level-1 auxiliary file: Thesis_Chapters/contents.aux
+A level-1 auxiliary file: Thesis_Chapters/Chapter_1.aux
+A level-1 auxiliary file: Thesis_Chapters/Chapter_2.aux
+A level-1 auxiliary file: Thesis_Chapters/Chapter_3.aux
+A level-1 auxiliary file: Thesis_Chapters/Chapter_4.aux
+A level-1 auxiliary file: Thesis_Chapters/Chapter_5.aux
+A level-1 auxiliary file: Thesis_Chapters/Chapter_6.aux
+A level-1 auxiliary file: Thesis_Chapters/Chapter_7.aux
+A level-1 auxiliary file: Thesis_Chapters/biblio.aux
+The style file: abbrvnat.bst
+Reallocated field_info (elt_size=4) to 13820 items from 5000.
+Database file #1: ThesisBib.bib
+Warning--entry type for "Hemingway:bA3-kvLz" isn't style-file defined
+--line 1090 of file ThesisBib.bib
+Reallocated str_pool (elt_size=1) to 130000 items from 65000.
+You've used 315 entries,
+            2773 wiz_defined-function locations,
+            2479 strings with 76934 characters,
+and the built_in function-call counts, 183934 in all, are:
+= -- 16121
+> -- 13896
+< -- 125
++ -- 4668
+- -- 4339
+* -- 16665
+:= -- 28878
+add.period$ -- 956
+call.type$ -- 315
+change.case$ -- 2387
+chr.to.int$ -- 301
+cite$ -- 630
+duplicate$ -- 6679
+empty$ -- 12670
+format.name$ -- 4796
+if$ -- 37418
+int.to.chr$ -- 15
+int.to.str$ -- 1
+missing$ -- 313
+newline$ -- 1582
+num.names$ -- 1268
+pop$ -- 4262
+preamble$ -- 1
+purify$ -- 2073
+quote$ -- 0
+skip$ -- 5489
+stack$ -- 0
+substring$ -- 8436
+swap$ -- 480
+text.length$ -- 17
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 3460
+warning$ -- 0
+while$ -- 1570
+width$ -- 0
+write$ -- 4123
+(There was 1 warning)
